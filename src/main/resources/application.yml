@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://192.168.1.220:3306/product-service
+
+    username: appuser
+    password: password
