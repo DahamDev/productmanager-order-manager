@@ -1,4 +1,4 @@
-##This application performs order and product management operations through following api end points.
+#This application performs order and product management operations through following api end points.
 
 1.GET /product/get/{id}         - get specific product details 
 
@@ -10,7 +10,7 @@
 
 
 
-##Managing orders 
+#Managing orders 
 
 1. GET /order/get                - get all the orders 
 
