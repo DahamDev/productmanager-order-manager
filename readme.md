@@ -10,7 +10,7 @@
 
 
 
-**Managing orders **
+**Managing orders**
 
 1. GET /order/get                - get all the orders 
 
